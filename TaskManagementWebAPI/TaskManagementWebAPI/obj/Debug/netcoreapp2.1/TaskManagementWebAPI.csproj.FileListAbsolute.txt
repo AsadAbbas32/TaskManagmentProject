@@ -1,0 +1,16 @@
+C:\Users\Aadil Raza\source\repos\TaskManagementWebAPI\TaskManagementWebAPI\bin\Debug\netcoreapp2.1\TaskManagementWebAPI.deps.json
+C:\Users\Aadil Raza\source\repos\TaskManagementWebAPI\TaskManagementWebAPI\bin\Debug\netcoreapp2.1\TaskManagementWebAPI.runtimeconfig.json
+C:\Users\Aadil Raza\source\repos\TaskManagementWebAPI\TaskManagementWebAPI\bin\Debug\netcoreapp2.1\TaskManagementWebAPI.runtimeconfig.dev.json
+C:\Users\Aadil Raza\source\repos\TaskManagementWebAPI\TaskManagementWebAPI\bin\Debug\netcoreapp2.1\TaskManagementWebAPI.dll
+C:\Users\Aadil Raza\source\repos\TaskManagementWebAPI\TaskManagementWebAPI\bin\Debug\netcoreapp2.1\TaskManagementWebAPI.pdb
+C:\Users\Aadil Raza\source\repos\TaskManagementWebAPI\TaskManagementWebAPI\obj\Debug\netcoreapp2.1\TaskManagementWebAPI.csproj.CoreCompileInputs.cache
+C:\Users\Aadil Raza\source\repos\TaskManagementWebAPI\TaskManagementWebAPI\obj\Debug\netcoreapp2.1\TaskManagementWebAPI.RazorAssemblyInfo.cache
+C:\Users\Aadil Raza\source\repos\TaskManagementWebAPI\TaskManagementWebAPI\obj\Debug\netcoreapp2.1\TaskManagementWebAPI.RazorAssemblyInfo.cs
+C:\Users\Aadil Raza\source\repos\TaskManagementWebAPI\TaskManagementWebAPI\obj\Debug\netcoreapp2.1\TaskManagementWebAPI.AssemblyInfoInputs.cache
+C:\Users\Aadil Raza\source\repos\TaskManagementWebAPI\TaskManagementWebAPI\obj\Debug\netcoreapp2.1\TaskManagementWebAPI.AssemblyInfo.cs
+C:\Users\Aadil Raza\source\repos\TaskManagementWebAPI\TaskManagementWebAPI\obj\Debug\netcoreapp2.1\TaskManagementWebAPI.RazorTargetAssemblyInfo.cache
+C:\Users\Aadil Raza\source\repos\TaskManagementWebAPI\TaskManagementWebAPI\obj\Debug\netcoreapp2.1\TaskManagementWebAPI.dll
+C:\Users\Aadil Raza\source\repos\TaskManagementWebAPI\TaskManagementWebAPI\obj\Debug\netcoreapp2.1\TaskManagementWebAPI.pdb
+C:\Users\Aadil Raza\source\repos\TaskManagementWebAPI\TaskManagementWebAPI\obj\Debug\netcoreapp2.1\TaskManagementWebAPI.csprojAssemblyReference.cache
+D:\TaskManagement\TaskManagementWebAPI\TaskManagementWebAPI\obj\Debug\netcoreapp2.1\TaskManagementWebAPI.dll
+D:\TaskManagement\TaskManagementWebAPI\TaskManagementWebAPI\obj\Debug\netcoreapp2.1\TaskManagementWebAPI.pdb
